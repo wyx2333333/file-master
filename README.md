@@ -1,6 +1,6 @@
 # iOS-File-Master
 
-- File Master文件管理系统
+- File Master 文件管理系统
 
 主要实现功能：
 
